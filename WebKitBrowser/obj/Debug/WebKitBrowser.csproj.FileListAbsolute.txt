@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\bin\Debug\WebKitBrowser.dll.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\bin\Debug\WebKitBrowser.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\bin\Debug\WebKitBrowser.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowser\obj\Debug\WebKit.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowser\obj\Debug\WebKit.WebKitBrowser.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowser\obj\Debug\WebKitBrowser.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowser\obj\Debug\WebKitBrowser.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowser\obj\Debug\WebKitBrowser.pdb

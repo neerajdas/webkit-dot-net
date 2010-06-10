@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowserTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.DownloadForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.MainForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.NavigationBar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.SourceViewForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.WebBrowserTabPage.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\bin\Debug\WebKitBrowser.dll.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\bin\Debug\WebKitBrowserTest.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\bin\Debug\WebKitBrowserTest.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebKit.NET-0.3-src\trunk\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.pdb
